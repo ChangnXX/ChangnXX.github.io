@@ -1,26 +1,14 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Changnan Xiao",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "changnanxiao@gmail.com",
+    "url": "https://ChangnXX.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Shanghai",
+      "countryCode": "CHN",
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
   "work": [
     {
@@ -38,32 +26,31 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "CIMS, NYU",
+      "area": "Probability and Stochastic Process",
+      "studyType": "Master",
+      "startDate": "2015-09-01",
+      "endDate": "2017-06-30",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
-  "awards": [
+      "courses": []
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Yuanpei, PKU",
+      "area": "Probability and Statistics",
+      "studyType": "Bachelor",
+      "startDate": "2011-09-01",
+      "endDate": "2015-06-30",
+      "score": "",
+      "courses": []
     }
   ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
